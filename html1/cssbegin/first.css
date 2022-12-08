@@ -1,0 +1,14 @@
+body{
+    background-color:aliceblue;
+}
+    
+    h1{
+    text-align: center;
+    color:red;
+}
+a{
+    color:yellow;
+}
+a:hover{
+    color:blue;
+}
